@@ -2,7 +2,13 @@
 
 - by crewai
 
-# dependencies
+## run
+
+```cmd
+uv run main.py
+```
+
+## dependencies
 
 - crewai
 - python-dotenv
